@@ -1,11 +1,11 @@
-## Hello! 
+## Hello 😁! 
 
 <!-- Your Name -->
 # Kenya Wangari
 
 <!-- Introduction -->
 
-Hi everyone! I'm Kenya Wangari, an  AI student and with a curious nature of how the world of machine learning works! 
+Hi everyone😁! I'm Kenya Wangari, an  AI student and with a curious nature of how the world of machine learning works☺️! 
 
 <!-- About Me -->
 ## About Me
@@ -13,10 +13,10 @@ Hi everyone! I'm Kenya Wangari, an  AI student and with a curious nature of how 
 - 13 years
 - Interested in the different ways AI works
 - Currently learning Python
-- 
+  
 <!-- Interests -->
 ## Interests
- - England's monarch
+ - England's monarchs 
  - AI
  - Machine learning
  - Anime
@@ -32,14 +32,14 @@ You could check out my repositaries!
 You could contact me on:
 
 - 📧 Email: [kenyawangari@gmail.com](mailto:)
-- 💼 LinkedIn: [](https://www.linkedin.com/in/)
+- 💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BzpAViU6mSbKc7LNCJno4rQ%3D%3D](https://www.linkedin.com/in/)
 
 Feel free to text me if we have common interests! I don't mind!
 
 <!-- Footer -->
 
 <p align="center">
-  🌟 Thank you for visiting my GitHub profile! Stay innovative! 🌟
+  🌟 Thank you for visiting my GitHub profile! 🌟
 </p>
 
 <!--
